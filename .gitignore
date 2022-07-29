@@ -9,4 +9,4 @@
 # Local state files
 *.tfstate
 *.tfstate.*
-
+*.terraform.lock.hcl
